@@ -1,6 +1,6 @@
 <html>
 
-Look at this awesome eggs and baby cardinal! Cardinals lay anywhere between two and five eggs per nest.
+Look at these awesome eggs and baby cardinal! Cardinals lay anywhere between two and five eggs per nest. I wonder how big is such an egg.
 <br>
 <img src="img/eggs.jpg" width="400px"/>
 <br>
